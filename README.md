@@ -28,6 +28,7 @@ The system collects environmental data such as temperature, humidity, atmospheri
 ## **Software**
 
 Iot MQTT Panel in Google Play/App Store
+Eclipse Mosquitto as a MQTT Broker for PC
 
 ## **Parameter Comparison Algorithm**
 
